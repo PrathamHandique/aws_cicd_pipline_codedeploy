@@ -1,5 +1,5 @@
-<img width="400" alt="Screenshot 2024-09-02 at 6 00 48 PM" src="https://github.com/user-attachments/assets/6b5472d5-850e-49e9-be0c-f98eee8c38f7">
-<img width="400" alt="Screenshot 2024-09-02 at 6 00 58 PM" src="https://github.com/user-attachments/assets/69abe89e-7909-4edc-bb6e-fa53a18c9bce">
+<img width="400" height="250" alt="Screenshot 2024-09-02 at 6 00 48 PM" src="https://github.com/user-attachments/assets/6b5472d5-850e-49e9-be0c-f98eee8c38f7">
+<img width="400" height="250" alt="Screenshot 2024-09-02 at 6 00 58 PM" src="https://github.com/user-attachments/assets/69abe89e-7909-4edc-bb6e-fa53a18c9bce">
 
 
 
